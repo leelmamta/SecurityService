@@ -4,7 +4,7 @@ Frontend- HomePage  Login/SignUp Pages.
 Store the data into DynamoDB.
 # SecurityService
 This service is to Validate the User and provide(authentication) the User Role (Authorization)
-### Authentication 🔑
+### Authentication 🔑 
 Authentication (Who are you?)
 Verifies the user’s identity (e.g., username/password).
 Involves credentials comparison and session creation.
